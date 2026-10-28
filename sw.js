@@ -1,5 +1,5 @@
 // Quotebook app-shell cache: opens instantly from the Home Screen, then refreshes in the background.
-const SHELL = "qbs-shell-v34";
+const SHELL = "qbs-shell-v35";
 const DATA = "qbs-data-v1";
 // "/" on lovable.app, "/<repo>/" on GitHub Pages.
 const BASE = new URL(self.registration.scope).pathname;
